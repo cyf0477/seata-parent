@@ -21,6 +21,12 @@
 		<java.version>1.8</java.version>
 	</properties>
 
+	<modules>
+		<module>seata-center</module>
+		<module>seata-bank1</module>
+		<module>seata-bank2</module>
+	</modules>
+
 	<dependencyManagement>
 		<dependencies>
 			<dependency>
